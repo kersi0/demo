@@ -12,5 +12,6 @@ public class Main {
 	public static void main(String[] args) {
 		System.out.println("Hello Kerstin!");
 		System.out.println("World! Git is nice");
+		System.out.println("Hello SaCo team.");
 	}
 }
