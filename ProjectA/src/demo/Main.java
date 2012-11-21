@@ -14,5 +14,6 @@ public class Main {
 		System.out.println("World! Git is nice");
 		System.out.println("Hello SaCo team and christoph.");
 		System.out.println("Things happen.");
+		System.out.println("Test.");
 	}
 }
