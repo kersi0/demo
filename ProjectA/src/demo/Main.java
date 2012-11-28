@@ -17,6 +17,6 @@ public class Main {
 		System.out.println("Hello SaCo team and christoph.");
 		System.out.println("Things happen!");
 		System.out.println("Test.sdfsjdkfsjkldjsklsd");
-		System.exit(436);
+		System.exit(4736);
 	}
 }
