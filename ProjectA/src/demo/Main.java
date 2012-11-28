@@ -13,7 +13,7 @@ public class Main {
 		System.out.println("Hello Kerstin!");
 		System.out.println("World! Git is nice");
 		System.out.println("Hello SaCo team and christoph.");
-		System.out.println("Things happen.");
+		System.out.println("Things happen!");
 		System.out.println("Test.sdfsjdkfsjkldjsklsd");
 		System.exit(436);
 	}
