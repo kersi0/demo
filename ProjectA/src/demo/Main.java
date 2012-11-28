@@ -15,6 +15,6 @@ public class Main {
 		System.out.println("Hello SaCo team and christoph.");
 		System.out.println("Things happen.");
 		System.out.println("Test.sdfsd");
-		System.exit(-6);
+		System.exit(won'tcompile :-P);
 	}
 }
