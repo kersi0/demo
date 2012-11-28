@@ -5,6 +5,8 @@
  * Homepage: www.ntswincash.com
  */
 
+// nice commit is nice
+
 package demo;
 
 public class Main {
